@@ -1,22 +1,22 @@
 ---
-title: "Personal Website"
+title: "Isa Peczuh"
 about:
   # Templates include: jolla, trestles, solana, marquee, or broadside
   # https://quarto.org/docs/websites/website-about.html
   template: jolla
-  image: img/iggy.jpg
+  image: img/profeshme.png
   links:
     # Available icons: https://icons.getbootstrap.com/
     - icon: twitter
       text: twitter
-      href: https://twitter.com
+      href: https://twitter.com/isapz_20
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/mcpeczuh
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://www.linkedin.com/in/isa-peczuh/
 ---
 
-Iggy is the Chief Beggar at Three Bark Manor. When not innovating naptime, Iggy enjoys dinner.
 
+Welcome to my website! Click around to learn more about me.
