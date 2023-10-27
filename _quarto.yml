@@ -17,14 +17,14 @@ website:
 format:
   html:
     theme: 
-      - cosmo
+      - morph
       - "assets/theme.scss"
     header-includes: |
-      <link rel="preconnect" href="https://fonts.googleapis.com">
-      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-      <link href="https://fonts.googleapis.com/css2?family=Roboto:ital@0;1&display=swap" rel="stylesheet"> 
+     <link rel="preconnect" href="https://fonts.googleapis.com">
+     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+     <link href="https://fonts.googleapis.com/css2?family=Bitter:ital,wght@0,100;0,400;0,700;1,400&display=swap" rel="stylesheet">
     toc: true
-    mainfont: "Roboto"
+    mainfont: "Bittersweet"
 
 
 

@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Marisa C. Peczuh",
-    "section": "",
-    "text": "Welcome to my website! Click around to learn more about me."
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -14,39 +7,18 @@
     "text": "I’m a PhD student at the University of Minnesota, Twin Cities in the Psychological Foundations of Education program. I am interested in supporting students’ identities in learning environments and contributing to educational equity through research and practice.\nI grew up in small town in Connecticut, attended college in New York, and lived in Rhode Island before moving to Minnesota. Outside of school and work, I also enjoy playing and watching women’s basketball, exploring the outdoors, eating at sweet treats, doing arts and crafts, and traveling!"
   },
   {
+    "objectID": "about.html#cv",
+    "href": "about.html#cv",
+    "title": "About",
+    "section": "CV",
+    "text": "CV\nHere is a link to my CV (updated October 2023)."
+  },
+  {
     "objectID": "about.html#education",
     "href": "about.html#education",
     "title": "About",
     "section": "Education",
     "text": "Education\nUniversity of Minnesota, Twin Cities | Minneapolis, MN PhD | Anticipated May 2026\nUniversity of Minnesota, Twin Cities | Minneapolis, MN MA | Anticipated December 2023\nVassar College | Poughkeepsie, NY BA | Majors: Education and Psychology"
-  },
-  {
-    "objectID": "about.html#references",
-    "href": "about.html#references",
-    "title": "About",
-    "section": "References",
-    "text": "References\nHank | Chief Barking Scientist | Three Bark Manor\nSadie | Naptime Engineer | Three Bark Manor"
-  },
-  {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "About",
-    "section": "",
-    "text": "I’m interested in studying at the intersection of educational psychology and the learning sciences. My work includes formal and informal educational environments, utilizes quantitative and qualitative approaches, and considers micro and macro levels.\nHere are some key words that illustrate my research interests: youth and students, identity and belonging, sociocultural and asset-based theories, and educational equity and social justice."
-  },
-  {
-    "objectID": "research.html#education",
-    "href": "research.html#education",
-    "title": "About",
-    "section": "Education",
-    "text": "Education\nUniversity of Minnesota, Twin Cities | Minneapolis, MN\nPhD | Anticipated May 2026\nUniversity of Minnesota, Twin Cities | Minneapolis, MN\nMA | Anticipated December 2023\nVassar College | Poughkeepsie, NY\nBA | Majors: Education and Psychology"
-  },
-  {
-    "objectID": "research.html#cv",
-    "href": "research.html#cv",
-    "title": "About",
-    "section": "CV",
-    "text": "CV\nHere is a link to my CV (updated October 2023)."
   },
   {
     "objectID": "practice.html",
@@ -70,11 +42,11 @@
     "text": "Previous experiences\nPrior to attending graduate school, I served as an AmeriCorps Member with City Year in Providence, Rhode Island. During the academic year, I worked alongside a partner teacher in a fourth grade school classroom. Specifically, I supported students’ academic, social, and emotional skill development in one-on-one, small group, and whole class settings."
   },
   {
-    "objectID": "about.html#cv",
-    "href": "about.html#cv",
+    "objectID": "research.html",
+    "href": "research.html",
     "title": "About",
-    "section": "CV",
-    "text": "CV\nHere is a link to my CV (updated October 2023)."
+    "section": "",
+    "text": "I’m interested in studying at the intersection of educational psychology and the learning sciences. My work includes formal and informal educational environments, utilizes quantitative and qualitative approaches, and considers micro and macro levels.\nHere are some key words that illustrate my research interests: youth and students, identity and belonging, sociocultural and asset-based theories, and educational equity and social justice."
   },
   {
     "objectID": "research.html#community-outreach-retention-and-engagement-core-program",
@@ -89,5 +61,12 @@
     "title": "About",
     "section": "Statewide Longitudinal Education Data System (SLEDS)",
     "text": "Statewide Longitudinal Education Data System (SLEDS)\nWithin this group research project, we are studying students’ educational pathways from high school to postsecondary education and/or the workforce, focusing on differences in student sex, using SLEDS data."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Marisa C. Peczuh",
+    "section": "",
+    "text": "Welcome to my website! Click around to learn more about me."
   }
 ]
