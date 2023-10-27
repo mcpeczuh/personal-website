@@ -7,6 +7,9 @@ about:
   image: img/profeshme.png
   links:
     # Available icons: https://icons.getbootstrap.com/
+    - icon: envelope-fill
+      text: Email
+      href: mailto:peczu001@umn.edu
     - icon: twitter
       text: twitter
       href: https://twitter.com/isapz_20
