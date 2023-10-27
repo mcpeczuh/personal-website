@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Isa Peczuh"
+  title: "Marisa C. Peczuh"
   navbar:
     left:
       - href: index.qmd
